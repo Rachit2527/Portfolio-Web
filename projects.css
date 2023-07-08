@@ -1,0 +1,112 @@
+.projects{
+    height:1000px;
+    display:flex;
+    flex-direction:column;
+}
+.MLPro{
+    height:450px;
+    
+}
+.MLP{
+    text-align:center;
+    color:rgb(90, 90, 184);
+}
+.NLPPro{
+    height:350px;
+    
+}
+.NLP{
+    text-align:center;
+    color:rgb(90, 90, 184);
+}
+.WEBPro{
+    height:180px;
+    
+}
+.WEB{
+    text-align:center;
+    color:rgb(90, 90, 184);
+    
+}
+
+.footer2{
+    margin-top:40px;  
+    display:flex;
+  }
+  .footer2 ul{
+      list-style:none;
+      margin:0 100px;
+  }
+  .footer2 >div{
+      width:120px;
+  }
+  .text-center{
+      text-align:center;
+      color:grey;
+      padding:20px;
+  }
+  .M1,.M2,.M3,.M4,.M5,.N1,.N2,.N3,.W1{
+    text-align:center;
+    color:rgb(171, 125, 125);
+  }
+  .M1,.M2,.M3,.M4,.M5,.N1,.N2,.N3,.W1:hover{
+    cursor:pointer;
+  }
+  .M1:hover{
+    background-color:white;
+    color:black;
+  }
+  .M2:hover{
+    background-color:white;
+    color:black;
+  }
+  .M3:hover
+{
+    background-color:white;
+    color:black;
+}
+
+  .M4:hover
+{
+    background-color:white;
+    color:black;
+}
+
+  .M5:hover{
+    background-color:white;
+    color:black;
+  }
+  .N1:hover{
+    background-color:white;
+    color:black;
+  }
+  .N2:hover{
+    background-color:white;
+    color:black;
+  }
+  .N3:hover{
+    background-color:white;
+    color:black;
+  }
+  .W1:hover{
+    background-color:white;
+    color:black;
+  }
+    
+  
+  
+  .M1d,.M2d,.M3d,.M4d,.M5d,.N1d,.N2d,.N3d,.W1d{
+    margin-top:4px;
+  }
+  .descM1,.descM2,.descM3,.descM4,.descM5,.descN1,.descN2,.descN3,.descW1{
+    margin-top:20px;
+    text-align:center;
+    font-family: 'Kanit', sans-serif;
+
+  }
+  .M1d,.N1d,.W1d{
+    padding:2px;
+  }
+  .WEBPro{
+    margin-top:10px;
+  }

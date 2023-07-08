@@ -1,0 +1,135 @@
+.sect{
+    width:100vw;
+    height:70vh;
+    display:flex;
+    flex-direction:row;
+}
+.intro{
+    width:75vw;
+}
+.pic{
+    width:20vw;
+    
+}
+.pic img{
+    width:90%;
+    margin-top:130px;
+    border:4px solid white;
+    border-radius: 100px;
+}
+
+.Introduction{
+
+    margin-top: 20px;
+    text-align:center;
+    
+    color:rgb(208, 216, 56);
+    margin-bottom:20px;
+}
+.p1,.p2,.p3,.p4,.p5{
+    margin-bottom:10px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left:34px;
+    padding:4px;
+}
+.medals{
+    text-align:center;
+}
+.sect2{
+    width:100vw;
+    height:50vh;
+    display:flex;
+    flex-direction:row;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.points{
+    width:65vw;
+    margin:auto;
+    padding:8px;
+    margin-top:15px;
+   
+}
+.expe{
+    margin-top:15px;
+    text-align:center;
+    color:rgb(208, 216, 56);
+    margin-bottom: 20px;
+}
+.experience ul li{
+    padding:4px;
+    margin:8px;
+}
+.pic2{
+    margin-right:50px;
+    width:25vw;
+    
+}
+.pic2 img{
+    width:90%;
+    margin-top:40px;
+    border:4px solid white;
+    border-radius: 60px;
+    
+}
+
+.sect3{
+    width:100vw;
+    height:270px;
+    display:flex;
+    flex-direction:row;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+   
+}
+.work{
+    width:75vw;
+    margin:auto;
+    margin-top:0px;
+    padding:8px;
+}
+.work ul li{
+    padding:8px;
+}
+.ext{
+    text-align:center;
+    color:rgb(208, 216, 56);
+}
+.pic3{
+    margin-right:50px;
+    width:25vw;
+    
+    
+    
+}
+.ext-c ul li{
+    margin-left:34px;
+}
+.pic3 img{
+    width:90%;
+
+    height:330px;
+}
+.footer2{
+    margin-top:40px;  
+    display:flex;
+  }
+  .footer2 ul{
+      list-style:none;
+      margin:0 100px;
+      
+      
+  }
+  .footer2 >div{
+      width:120px;
+  }
+  .text-center{
+      text-align:center;
+      color:grey;
+      padding:20px;
+  }
+  
