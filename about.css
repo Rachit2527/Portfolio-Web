@@ -101,12 +101,9 @@
 }
 .pic3{
     margin-right:50px;
-    width:25vw;
-    
-    
-    
+    width:25vw; 
 }
-.ext-c ul li{
+.text-c ul li{
     margin-left:34px;
 }
 .pic3 img{
@@ -118,18 +115,35 @@
     margin-top:40px;  
     display:flex;
   }
-  .footer2 ul{
+.footer-first{
+    margin-left: 120px;
+}
+.footer2 ul{
       list-style:none;
-      margin:0 100px;
-      
-      
-  }
-  .footer2 >div{
+      margin:0 100px;  
+}
+  .footer-third{
+    margin-left: 280px;;
+}
+.footer2 >div{
       width:120px;
-  }
-  .text-center{
+ }
+.text-center{
       text-align:center;
       color:grey;
       padding:20px;
-  }
+ }
+  footer-first h3{
+    margin-left:60px;
+}
+.footer-first{
+    margin-left: 120px;
+}
+
+.footer-third{
+    margin-left: 280px;;
+}
+.social{
+    margin-left: 280px;
+}
   

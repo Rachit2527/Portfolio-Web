@@ -14,8 +14,8 @@
 
 }
 .text:hover{
-    background-color:white;
-    color:black;
+   
+    color:yellow;
     cursor:pointer;
    
 
@@ -68,4 +68,17 @@
     text-align:center;
     color:grey;
     padding:20px;
+}
+footer-first h3{
+    margin-left:60px;
+}
+.footer-first{
+    margin-left: 120px;
+}
+
+.footer-third{
+    margin-left: 280px;;
+}
+.social{
+    margin-left: 280px;
 }

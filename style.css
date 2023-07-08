@@ -157,6 +157,7 @@ footer{
 }
 .footer{
   display:flex;
+  flex-direction: row;
 }
 .upper{
     display:flex;
@@ -179,12 +180,21 @@ footer{
 
 }
 .footer-first h3{
-    margin-left:40px;
+    margin-left:60px;
+}
+.footer-first{
+    margin-left: 120px;
 }
 .social ul li a{
     text-decoration: none;
     color:inherit;
     
+}
+.footer-third{
+    margin-left: 280px;;
+}
+.social{
+    margin-left: 280px;
 }
 .social ul li{
     padding:4px;

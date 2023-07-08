@@ -101,6 +101,7 @@
 .footer2{
     margin-top:40px;  
     display:flex;
+    flex-direction: row;
   }
   .footer2 ul{
       list-style:none;
@@ -109,8 +110,11 @@
       
   }
   .footer2 >div{
-      width:120px;
+    width:120px;
   }
+  .social{
+    margin-left: 280px;
+}
   .text-center{
       text-align:center;
       color:grey;
